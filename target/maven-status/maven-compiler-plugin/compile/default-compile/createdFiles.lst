@@ -1,0 +1,10 @@
+com\wisd\repository\UsuarioRepository.class
+com\wisd\service\ProductoService.class
+com\wisd\controller\UsuarioController.class
+com\wisd\WisdApplication.class
+com\wisd\controller\ProductoController.class
+com\wisd\model\Producto.class
+com\wisd\repository\ProductoRepository.class
+com\wisd\model\Usuario.class
+com\wisd\service\UsuarioService.class
+com\wisd\exception\GlobalExceptionHandler.class
